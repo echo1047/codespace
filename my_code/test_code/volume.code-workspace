@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../learning"
+		},
+		{
+			"name": "echo",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "/root/volume/echo"
+	}
+}

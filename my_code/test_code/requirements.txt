@@ -1,0 +1,10 @@
+gymnasium
+gymnasium[atari]
+gymnasium[accept-rom-license]
+torch
+tensorboard
+tqdm
+matplotlib
+numpy
+ipykernel
+moviepy
